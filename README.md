@@ -121,7 +121,7 @@ Test with the wheels off the ground first. Keep a physical power switch within r
 ```
 .
 ├── robot.py            # controller (hardware, state machine, dashboard)
-├── requirements.txt
+├── Requirements.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
